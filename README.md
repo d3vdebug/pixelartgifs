@@ -90,7 +90,7 @@
 > ![731501e703448b](https://github.com/user-attachments/assets/a7541284-fde4-4acb-9ac2-f95ba078cd60)
 <!-- 27 -->
 > ### 27
-![9070324cdfc07c68d60eed0c39e77573](https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1)
+> ![9070324cdfc07c68d60eed0c39e77573](https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1)
 <!-- 28 -->
 > ### 28
 > ![bd565dcc0a556add0b0a0ed6b26d686e](https://github.com/user-attachments/assets/81246bf0-4911-430b-b71e-55a5d0c8b739)
