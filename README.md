@@ -5,6 +5,7 @@
 
 <img src="https://github.com/user-attachments/assets/194028a6-a4aa-4cd1-a56f-b4d7e3da2eff"/>
 
+<img width="1000" height="10" alt="image" src="https://github.com/user-attachments/assets/2d893240-f7aa-4552-b495-3c2bf57b03b8" />
 
 > [!IMPORTANT]
 > _I don't own any of these gif artworks neither I had created these, I just created this curated list for better accessibility._
