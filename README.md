@@ -3,9 +3,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&letterSpacing=&duration=2000&pause=1000&color=F74E12&center=true&vCenter=true&repeat=false&width=435&height=50&lines=PIXEL+ART+GIFS" alt="Typing SVG" />
 </p>
 
+[![d](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge&logo=ReadMe&logoColor=white)](LICENSE)
 
-A curated collection of pixel‑art style GIFs to make your GitHub profile pop ✨
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-green?style=for-the-badge&logo=github&logoColor=white)](CONTRIBUTING.md)
 
+A curated collection of pixel art style GIFs perfect for GitHub profile READMEs. Add some retro charm to your GitHub profile with these hand-picked animated pixel art creations.
+
+## ✨ Features
+
+- 🎨 Curated pixel art GIFs in various styles and themes
+- 📁 Organized by categories (e.g., animals, characters, scenes)
+- 🔄 Regularly updated with new additions
+- 📝 Easy to use in GitHub profiles
+- 🎯 Optimized for profile README display
 
 
 <img src="https://github.com/user-attachments/assets/194028a6-a4aa-4cd1-a56f-b4d7e3da2eff"/>
