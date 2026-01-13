@@ -1,10 +1,11 @@
-<img src="https://github.com/user-attachments/assets/194028a6-a4aa-4cd1-a56f-b4d7e3da2eff"/>
+
 
 <p align="center">
   
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&letterSpacing=&duration=2000&pause=1000&color=F74E12&center=true&vCenter=true&repeat=false&width=435&height=50&lines=PIXEL+ART+GIFS" alt="Typing SVG" />
+  
 </p>
-
+<p align="center"><strong>A curated collection of pixel art style GIFs</strong></p>
 
   <p align = center>
     <a href="LICENSE">
@@ -20,8 +21,8 @@
       <img src="https://img.shields.io/github/forks/d3vdebug/pixelartgifs?style=for-the-badge&logo=github&color=orange" alt="GitHub forks" />
     </a>
   </p>
-  
----
+
+<img src="https://github.com/user-attachments/assets/194028a6-a4aa-4cd1-a56f-b4d7e3da2eff"/>
 
 A curated collection of pixel art style GIFs perfect for GitHub profile READMEs. Add some retro charm to your GitHub profile with these hand-picked animated pixel art creations.
 
