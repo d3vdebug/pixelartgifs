@@ -342,7 +342,7 @@ Please see our [Contributing Guide](CONTRIBUTING.md) for detailed instructions.
 ### For GIF Submissions
 
 - **Size**: Keep file sizes under 5MB
-- **Resolution**: Aim for 200x200px or smaller for profile compatibility
+- **Resolution**: Aim for 16:9 or smaller for profile compatibility
 - **Style**: Pixel art aesthetic (8-bit, 16-bit style)
 - **Content**: Appropriate for all audiences
 - **Originality**: Original creations preferred, or properly attributed
