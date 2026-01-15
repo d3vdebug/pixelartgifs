@@ -326,7 +326,6 @@ A curated collection of pixel art style GIFs perfect for GitHub profile READMEs.
 > ![5b4714e2bc7b32b6be3ca3faac61855a](https://github.com/user-attachments/assets/4d90ab2e-a862-4020-8fcb-bb9d3981310a)
 > ```
 
-## If you want to contribute or suggest any gif banner art on this list then feel free to contribute!!!
 
 ## 🤝 Contributing
 
