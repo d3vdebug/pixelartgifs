@@ -174,9 +174,9 @@ A curated collection of pixel art style GIFs perfect for GitHub profile READMEs.
 
 <!-- 19 -->
 > ### 19
-> ![LCYmNU](https://github.com/user-attachments/assets/990e247d-43ff-4aa0-9e03-656407581558)
+> ![AbondonedLife](https://github.com/user-attachments/assets/990e247d-43ff-4aa0-9e03-656407581558)
 > ```markdown
-> ![LCYmNU](https://github.com/user-attachments/assets/990e247d-43ff-4aa0-9e03-656407581558)
+> ![AbondonedLife](https://github.com/user-attachments/assets/990e247d-43ff-4aa0-9e03-656407581558)
 > ```
 
 <!-- 20 -->
