@@ -21,8 +21,12 @@
       <img src="https://img.shields.io/github/forks/d3vdebug/pixelartgifs?style=for-the-badge&logo=github&color=orange" alt="GitHub forks" />
     </a>
   </p>
+  
 
 <img src="https://github.com/user-attachments/assets/194028a6-a4aa-4cd1-a56f-b4d7e3da2eff"/>
+
+> [!IMPORTANT]
+> _I don't own any of these gif artworks neither I had created these, I just created this curated list for better accessibility._
 
 A curated collection of pixel art style GIFs perfect for GitHub profile READMEs. Add some retro charm to your GitHub profile with these hand-picked animated pixel art creations.
 
@@ -41,11 +45,7 @@ A curated collection of pixel art style GIFs perfect for GitHub profile READMEs.
 3. Copy the raw URL of the GIF file
 4. Add it to your GitHub profile README:
 
-
-
-
-> [!IMPORTANT]
-> _I don't own any of these gif artworks neither I had created these, I just created this curated list for better accessibility._
+----
 
 
 <!-- 1 -->
