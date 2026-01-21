@@ -1,5 +1,4 @@
 
-
 <p align="center">
   
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&letterSpacing=&duration=2000&pause=1000&color=F74E12&center=true&vCenter=true&repeat=false&width=435&height=50&lines=PIXEL+ART+GIFS" alt="Typing SVG" />
