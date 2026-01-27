@@ -228,9 +228,9 @@ A curated collection of pixel art style GIFs perfect for GitHub profile READMEs.
 
 <!-- 27 -->
 > ### 27
-> ![9070324cdfc07c68d60eed0c39e77573](https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1)
+> ![MidnightOwl](https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1)
 > ```markdown
-> ![9070324cdfc07c68d60eed0c39e77573](https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1)
+> ![MidnightOwl](https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1)
 > ```
 
 <!-- 28 -->
