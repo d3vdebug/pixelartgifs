@@ -165,9 +165,9 @@ A curated collection of pixel art style GIFs perfect for GitHub profile READMEs.
 
 <!-- 18 -->
 > ### 18
-> ![xhg7O9](https://github.com/user-attachments/assets/dc7c289a-5913-4da1-9d91-3800c5adb2be)
+> ![RelaxingRobo](https://github.com/user-attachments/assets/dc7c289a-5913-4da1-9d91-3800c5adb2be)
 > ```markdown
-> ![xhg7O9](https://github.com/user-attachments/assets/dc7c289a-5913-4da1-9d91-3800c5adb2be)
+> ![RelaxingRobo](https://github.com/user-attachments/assets/dc7c289a-5913-4da1-9d91-3800c5adb2be)
 > ```
 
 <!-- 19 -->
