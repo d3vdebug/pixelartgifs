@@ -365,6 +365,6 @@ All contributed GIFs should be original work or properly licensed for redistribu
 
 ---
 
-<p align=center >Made with ❤️ and pixels for the GitHub community</p>
+<p align=center >Made with ❤️ for the GitHub community</p>
 
 
