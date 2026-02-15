@@ -27,7 +27,7 @@
 
 A curated collection of pixel art style GIFs perfect for GitHub profile READMEs. Add some retro charm to your GitHub profile with these hand-picked animated pixel art creations.
 
-## ✨ Features
+## Features
 
 - 🎨 Curated pixel art GIFs in various styles and themes
 - 📁 Organized by categories (e.g., animals, characters, scenes)
@@ -35,7 +35,7 @@ A curated collection of pixel art style GIFs perfect for GitHub profile READMEs.
 - 📝 Easy to use in GitHub profiles
 - 🎯 Optimized for profile README display
 
-## 🚀 How to Use
+## How to Use
 
 1. Browse the gifs below
 2. Find a GIF you like
